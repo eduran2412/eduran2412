@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eren 👨🏻‍💻</h1>
 <h3 align="left">I am a software developer trying to learn about android development with kotlin. I want to be a talented android developer.</h3>
-<img align="right" alt="Coding" width="300" src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif?cid=790b7611d96c91dd3296ba4563cac9d7a98d4bd34b768503&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif?cid=ecf05e47urqaqckspjzu5827eyhwz15nk2e5aymb0ha5zvkn&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduran2412&label=Profile%20views&color=12af3a&style=flat" alt="eduran2412" /> </p>
 
-- 🔭 I’m currently working on **kotlin**
-
-- 🌱 I’m currently learning **android development**
+- 🔭 I’m currently working on **Java**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
