@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/vmQAsNXEgvItJxpgL4/giphy.gif?cid=ecf05e47urqaqckspjzu5827eyhwz15nk2e5aymb0ha5zvkn&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduran2412&label=Profile%20views&color=12af3a&style=flat" alt="eduran2412" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **.Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
